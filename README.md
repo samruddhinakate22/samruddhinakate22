@@ -40,18 +40,6 @@ B.Tech Data Science Student | ML & Data Analytics Enthusiast | Python Developer
 <img src="https://skillicons.dev/icons?i=pandas,numpy,sklearn,powerbi,excel" />
 </p>
 
----
-
-## 📊 GitHub Analytics
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=samruddhinakate22&show_icons=true&theme=tokyonight" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=samruddhinakate22&theme=tokyonight" width="48%" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=samruddhinakate22E&theme=tokyo-night" />
-</p>
 
 ---
 

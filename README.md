@@ -1,5 +1,6 @@
 <!-- TOP BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Welcome%20to%20My%20GitHub!&fontSize=38&fontColor=ffffff" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:232526,100:414345&height=110&section=header&text=Welcome%20to%20My%20GitHub%20Profile&fontSize=34&fontColor=ffffff" />
+
 
 <h1 align="center">👋 Hi, I'm Samruddhi Nakate</h1>
 

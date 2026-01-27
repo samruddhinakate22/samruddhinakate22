@@ -1,5 +1,5 @@
 <!-- TOP BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:232526,100:414345&height=110&section=header&text=Welcome%20to%20My%20GitHub%20Profile&fontSize=34&fontColor=ffffff" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000428,50:004e92,100:000428&height=160&section=header&text=Welcome%20to%20My%20GitHub!&fontSize=38&fontColor=00eaff" />
 
 
 <h1 align="center">👋 Hi, I'm Samruddhi Nakate</h1>
@@ -12,11 +12,6 @@ B.Tech Data Science Student | ML & Data Analytics Enthusiast | Python Developer
 🚀Aspiring Data Scientist &nbsp; | &nbsp; 📊 Turning Data into Insights &nbsp; | &nbsp; 🤖 AI Explorer
 </p>
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=samruddhinakate22&label=Profile%20Views&color=blue&style=flat" />
-<img src="https://img.shields.io/github/followers/samruddhinakate22?label=Followers&style=flat&color=green" />
-<img src="https://img.shields.io/github/stars/samruddhinakate22?label=Stars&style=flat&color=yellow" />
-</p>
 
 ---
 

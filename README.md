@@ -1,81 +1,93 @@
-<h1 align="center">Hi 👋, I'm Samruddhi Nakate</h1>
-<h3 align="center">Data Science & Machine Learning Enthusiast | Power BI | Python</h3>
+<!-- TOP BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Welcome%20to%20My%20GitHub!&fontSize=38&fontColor=ffffff" />
+
+<h1 align="center">👋 Hi, I'm Samruddhi Nakate</h1>
+
+<h3 align="center">
+B.Tech Data Science Student | ML & Data Analytics Enthusiast | Python Developer
+</h3>
 
 <p align="center">
-🚀 GSoC 2026 Aspirant | 🎓 B.Tech Student | 📊 Turning Data into Insights
-</p>
-
----
-
-## 👩‍💻 About Me
-
-- 🎓 **B.Tech Student** in Data Science  
-- 📊 Passionate about **Data Analytics, Machine Learning & AI**
-- 🧠 Interested in **Time Series Forecasting & Business Intelligence**
-- 💡 Love building **real-world data projects**
-- 🌱 Currently learning **Advanced ML & Power BI DAX**
-- 📬 Reach me at: **your_email@gmail.com**
-
----
-
-## 🛠️ Tech Stack
-
-### Languages & Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=python,sql,html,css,js,git,github" />
-</p>
-
-### Data & ML
-<p>
-  <img src="https://skillicons.dev/icons?i=pandas,numpy,sklearn" />
-</p>
-
-### Visualization & BI
-<p>
-  <img src="https://skillicons.dev/icons?i=powerbi,excel" />
-</p>
-
----
-
-## 📌 Featured Projects
-
-| Project | Description | Tech |
-|-------|------------|------|
-| **Hotel Booking Revenue Analysis** | Analyzed booking trends, seasonality & revenue KPIs | Power BI, DAX |
-| **AI Resume Screening System** | Ranked resumes using ML algorithms | Python, ML |
-| **Data Analytics Dashboard** | Interactive dashboards for business insights | Power BI |
-
-👉 *More projects available in my repositories*
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+🚀Aspiring Data Scientist &nbsp; | &nbsp; 📊 Turning Data into Insights &nbsp; | &nbsp; 🤖 AI Explorer
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+<img src="https://komarev.com/ghpvc/?username=samruddhinakate22&label=Profile%20Views&color=blue&style=flat" />
+<img src="https://img.shields.io/github/followers/samruddhinakate22?label=Followers&style=flat&color=green" />
+<img src="https://img.shields.io/github/stars/samruddhinakate22?label=Stars&style=flat&color=yellow" />
 </p>
 
 ---
 
-## 🌍 Connect With Me
+## 💫 About Me
+
+- 🎓 **B.Tech in Data Science**
+- 📊 Interested in **Data Analytics, Machine Learning & AI**
+- 🧠 Exploring **Time Series Forecasting & Business Intelligence**
+- 🛠 Skilled in **Python, Power BI, SQL, ML**
+- 🌱 Currently learning **Advanced ML & DAX**
+- 📬 Email: **samruddhinakate01@gmail.com**
+
+---
+
+## 🧰 Languages & Tools
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/samruddhi-nakate-62b674296">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:samruddhinakate01@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/samruddhinakate22">
-    <img src="https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white" />
-  </a>
+<img src="https://skillicons.dev/icons?i=python,sql,html,css,js,git,github" />
+</p>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=pandas,numpy,sklearn,powerbi,excel" />
 </p>
 
 ---
 
-⭐ *“Consistency beats intensity.”*  
-Thanks for visiting my profile!
+## 📊 GitHub Analytics
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=samruddhinakate22&show_icons=true&theme=tokyonight" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=samruddhinakate22&theme=tokyonight" width="48%" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=samruddhinakate22E&theme=tokyo-night" />
+</p>
+
+---
+
+## 🌟 Featured Projects
+
+| 🚀 Project | 📝 Description | 🛠 Tech |
+|-----------|---------------|--------|
+| **Hotel Booking Revenue Analysis** | Analyzed seasonal booking trends & KPIs | Power BI, DAX |
+| **AI Resume Screening System** | ML-based resume ranking system | Python, ML |
+| **MOODify** |MOODify leverages AI to detect user moods and tailor recommendations accordingly| ML |
+| **ML Learning Projects** | Hands-on ML implementations | Python |
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+<a href="mailto:samruddhinakate01@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/samruddhi-nakate-62b674296">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://github.com/samruddhinakate22">
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+</p>
+
+---
+
+<p align="center">
+✨ <i>“Code. Analyze. Improve. Repeat.”</i> ✨
+</p>
+
+<!-- FOOTER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" />
+

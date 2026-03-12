@@ -1,77 +1,73 @@
-<!-- TOP BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000428,50:004e92,100:000428&height=160&section=header&text=Welcome%20to%20My%20GitHub!&fontSize=38&fontColor=00eaff" />
-
-
-<h1 align="center">👋 Hi, I'm Samruddhi Nakate</h1>
-
-<h3 align="center">
-Third Year B.Tech Data Science Student | ML & Data Analytics Enthusiast | Python Developer
-</h3>
+<!-- HEADER BANNER -->
+<h1 align="center">✨ Welcome to My GitHub ✨</h1>
+<h3 align="center">Hi 👋 I'm Samruddhi Nakate</h3>
 
 <p align="center">
-🚀Aspiring Data Scientist &nbsp; | &nbsp; 📊 Turning Data into Insights &nbsp; | &nbsp; 🤖 AI Explorer
+🎓 Third Year B.Tech Data Science Student <br>
+📊 ML & Data Analytics Enthusiast | 🐍 Python Developer
 </p>
-
 
 ---
 
-## 💫 About Me
+## 🚀 About Me
 
-- 🎓 **Pursuing B.Tech in Data Science**
+- 🎓 Pursuing **B.Tech in Data Science**
 - 📊 Interested in **Data Analytics, Machine Learning & AI**
 - 🧠 Exploring **Time Series Forecasting & Business Intelligence**
-- 🛠 Skilled in **Python, Power BI, SQL, ML**
-- 🌱 Currently learning **Advanced ML & DAX**
-- 📬 Email: **samruddhinakate01@gmail.com**
+- 💻 Skilled in **Python, SQL, Power BI**
+- 📚 Currently learning **Advanced ML & DAX**
+- 📧 Email: **samruddhinakate01@gmail.com**
 
 ---
 
-## 🧰 Languages & Tools
+## 🛠 Languages & Tools
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,sql,html,css,js,git,github" />
-</p>
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=pandas,numpy,sklearn,powerbi,excel" />
-</p>
+<img src="https://skillicons.dev/icons?i=python,mysql,js,html,css,git,github,vscode" />
 
+</p>
 
 ---
 
-## 🌟 Featured Projects
+## 📊 GitHub Stats
 
-| 🚀 Project | 📝 Description | 🛠 Tech |
-|-----------|---------------|--------|
-| **Hotel Booking Revenue Analysis** | Analyzed seasonal booking trends & KPIs | Power BI, DAX |
-| **AI Resume Screening System** | ML-based resume ranking system | Python, ML |
-| **MOODify** |MOODify leverages AI to detect user moods and tailor recommendations accordingly| ML |
-| **ML Learning Projects** | Hands-on ML implementations | Python |
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
+
+</p>
+
+---
+
+## 📈 Most Used Languages
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+
+</p>
 
 ---
 
 ## 🌐 Connect With Me
 
 <p align="center">
+
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
+</a>
+
 <a href="mailto:samruddhinakate01@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail">
 </a>
 
-<a href="https://www.linkedin.com/in/samruddhi-nakate-62b674296">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="https://github.com/samruddhinakate22">
-<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
-</a>
 </p>
 
 ---
 
-<p align="center">
-✨ <i>“Code. Analyze. Improve. Repeat.”</i> ✨
-</p>
+## ✨ Fun Quote
 
-<!-- FOOTER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" />
-
+> “Turning Data into Insights 📊 and Ideas into Reality 🚀”

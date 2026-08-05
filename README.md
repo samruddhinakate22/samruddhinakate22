@@ -3,7 +3,7 @@
 <h3 align="center">Aspiring Data Scientist &nbsp;|&nbsp; Python &amp; Power BI &nbsp;|&nbsp; Turning Data into Decisions</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2F80ED&center=true&vCenter=true&width=650&lines=Third+Year+B.Tech+Data+Science+Student;Machine+Learning+%26+Data+Analytics+Enthusiast;Building+data-driven+solutions%2C+one+project+at+a+time" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2F80ED&center=true&vCenter=true&width=650&lines=Final+Year+B.Tech+Data+Science+Student;Machine+Learning+%26+Data+Analytics+Enthusiast;Building+data-driven+solutions%2C+one+project+at+a+time" alt="Typing SVG" />
 </p>
 
 <p align="center">

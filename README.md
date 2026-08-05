@@ -22,7 +22,7 @@
 
 ### 💫 About Me
 
-- 🎓 Third-year **B.Tech student in Data Science**
+- 🎓 **B.Tech student in Data Science**
 - 📊 Focused on **Data Analytics, Machine Learning & Business Intelligence**
 - 🧠 Currently exploring **Time Series Forecasting** and **Advanced DAX / Power BI**
 - 🛠️ Comfortable across the data stack — from cleaning raw data to building interactive dashboards and ML models
@@ -54,7 +54,7 @@
 | 🎧 **[MOODify](https://github.com/samruddhinakate22/MOODify)** | AI-powered journaling app that detects user mood and recommends Spotify playlists accordingly | `Python` `Machine Learning` |
 | 📉 **[Customer Churn Prediction](https://github.com/samruddhinakate22/customer-churn-prediction)** | Predicts customer churn using Logistic Regression on behavioral data | `Python` `Scikit-learn` |
 | 🏨 **[Hotel Revenue Analysis](https://github.com/samruddhinakate22/Hotel_Business_Understand_Improve_Revenue)** | Data-driven analysis of seasonal booking trends and KPIs to improve hotel revenue strategy | `Power BI` `DAX` |
-| 💇 **[GlossIQ – Hair Care Website](https://github.com/samruddhinakate22/Hair-Care-website)** | Front-end site for a smart haircare brand offering personalized product recommendations | `HTML` `CSS` |
+
 
 ---
 
